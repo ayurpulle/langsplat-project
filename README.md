@@ -562,4 +562,4 @@ Base 3DGS implementation from [gaussian-splatting](https://github.com/graphdeco-
 
 ---
 
-*Built as a 1-week project exploring neural scene representations and open-vocabulary 3D understanding. For questions or issues, open a GitHub issue.*
+*Built as a personal project exploring neural scene representations and open-vocabulary 3D understanding. For questions or issues, open a GitHub issue.*
