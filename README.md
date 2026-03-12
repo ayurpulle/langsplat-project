@@ -151,7 +151,7 @@ langsplat-project/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/langsplat-project.git
+git clone https://github.com/ayurpulle/langsplat-project.git
 cd langsplat-project
 
 # Create conda environment
