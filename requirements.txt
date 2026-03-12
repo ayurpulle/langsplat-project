@@ -1,0 +1,10 @@
+clip @ git+https://github.com/openai/CLIP.git
+segment-anything
+gradio>=4.0
+plyfile
+tqdm
+Pillow
+scipy
+scikit-learn
+lpips
+opencv-python
